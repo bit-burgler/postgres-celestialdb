@@ -1,5 +1,3 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="APP" style="zoom:30%;" />
-
 <h4 align=center style='color: white'>Build a Celestial Bodies Database with PostgreSQL</h4>
 
 <h6 align=center style='color: white'>freeCodeCamp Relational Databases (Beta)</h6>
